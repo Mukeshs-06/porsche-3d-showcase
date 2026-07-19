@@ -1,13 +1,28 @@
 # 🏎️ PORSCHE 918 SPYDER | Interactive 3D Luxury Showroom
 
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://porsche-918-3d.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://react.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-black?style=for-the-badge&logo=three.js)](https://threejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.style=for-the-badge)](./LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 An award-winning Awwwards-inspired luxury automotive experience for the legendary **Porsche 918 Spyder hypercar**, crafted with **Next.js 15 (App Router)**, **React Three Fiber**, **Three.js**, **GSAP**, and **Tailwind CSS v4**.
+
+🔗 **Live Application Demo**: [https://porsche-918-3d.vercel.app](https://porsche-918-3d.vercel.app)
+
+---
+
+## 🖼️ Showcase & Preview
+
+| 3D Hypercar Hero | Interactive Configurator |
+| :---: | :---: |
+| ![Porsche 918 3D Hero](https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=800&q=80) | ![Porsche Configurator](https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80) |
+
+| Cockpit Ergonomics | Design Showcase Gallery |
+| :---: | :---: |
+| ![Porsche Cockpit](https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=800&q=80) | ![Porsche Chassis](https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?auto=format&fit=crop&w=800&q=80) |
 
 ---
 
@@ -108,9 +123,16 @@ src/
 2. Import the repository into [Vercel](https://vercel.com/new).
 3. Vercel automatically detects Next.js 15 and deploys in under 2 minutes.
 
-### Deploy to Netlify / Cloudflare Pages
-- **Build Command**: `npm run build`
-- **Output Directory**: `.next`
+---
+
+## 📌 Setting up GitHub Repository "About" Section
+
+To make your repository look 100% professional on GitHub:
+1. Navigate to your GitHub repository main page.
+2. On the right side, click the **⚙️ Gear icon** next to **About**.
+3. Under **Website**, paste your live Vercel URL: `https://your-app.vercel.app`
+4. Add topics: `nextjs`, `react-three-fiber`, `threejs`, `webgl`, `gsap`, `tailwindcss`, `porsche`, `awwwards`.
+5. Click **Save changes**.
 
 ---
 
