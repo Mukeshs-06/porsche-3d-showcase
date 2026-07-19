@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://porsche-918-3d.vercel.app/sitemap.xml",
+    sitemap: "https://porsche-3d-showcase.vercel.app/sitemap.xml",
   };
 }

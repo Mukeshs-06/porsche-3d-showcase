@@ -22,7 +22,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://porsche-918-3d.vercel.app"),
+  metadataBase: new URL("https://porsche-3d-showcase.vercel.app"),
   title: "PORSCHE 918 SPYDER | Interactive 3D Luxury Showroom",
   description: "Experience the legendary Porsche 918 Spyder in an award-winning interactive 3D showroom powered by React Three Fiber, Three.js, and Next.js 15.",
   keywords: [
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://porsche-918-3d.vercel.app",
+    url: "https://porsche-3d-showcase.vercel.app",
     siteName: "Porsche 918 Spyder 3D Showcase",
     title: "PORSCHE 918 SPYDER | Interactive 3D Luxury Showroom",
     description: "An award-winning interactive 3D hypercar experience with real-time paint customization, studio lighting, and performance metrics.",

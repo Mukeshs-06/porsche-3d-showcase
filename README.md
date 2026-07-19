@@ -1,6 +1,6 @@
 # 🏎️ PORSCHE 918 SPYDER | Interactive 3D Luxury Showroom
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://porsche-918-3d.vercel.app)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://porsche-3d-showcase.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://react.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-black?style=for-the-badge&logo=three.js)](https://threejs.org/)
@@ -10,7 +10,7 @@
 
 An award-winning Awwwards-inspired luxury automotive experience for the legendary **Porsche 918 Spyder hypercar**, crafted with **Next.js 15 (App Router)**, **React Three Fiber**, **Three.js**, **GSAP**, and **Tailwind CSS v4**.
 
-🔗 **Live Application Demo**: [https://porsche-918-3d.vercel.app](https://porsche-918-3d.vercel.app)
+🔗 **Live Application Demo**: [https://porsche-3d-showcase.vercel.app](https://porsche-3d-showcase.vercel.app)
 
 ---
 
@@ -93,8 +93,8 @@ src/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/porsche-3d-showroom.git
-   cd porsche-3d-showroom
+   git clone https://github.com/Mukeshs-06/porsche-3d-showcase.git
+   cd porsche-3d-showcase
    ```
 
 2. **Install dependencies**:
@@ -118,21 +118,10 @@ src/
 
 ## ☁️ Deployment
 
-### Deploy to Vercel (Recommended)
-1. Push your code to GitHub.
-2. Import the repository into [Vercel](https://vercel.com/new).
-3. Vercel automatically detects Next.js 15 and deploys in under 2 minutes.
+### Live Vercel Deployment
+This application is deployed live on Vercel at: **[https://porsche-3d-showcase.vercel.app](https://porsche-3d-showcase.vercel.app)**.
 
----
-
-## 📌 Setting up GitHub Repository "About" Section
-
-To make your repository look 100% professional on GitHub:
-1. Navigate to your GitHub repository main page.
-2. On the right side, click the **⚙️ Gear icon** next to **About**.
-3. Under **Website**, paste your live Vercel URL: `https://your-app.vercel.app`
-4. Add topics: `nextjs`, `react-three-fiber`, `threejs`, `webgl`, `gsap`, `tailwindcss`, `porsche`, `awwwards`.
-5. Click **Save changes**.
+Continuous Deployment is active—any updates pushed to the `main` branch automatically build and deploy on Vercel.
 
 ---
 
